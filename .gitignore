@@ -1,0 +1,11 @@
+oop_module/.idea/.gitignore
+oop_module/.idea/inspectionProfiles/
+oop_module/.idea/misc.xml
+oop_module/.idea/modules.xml
+oop_module/.idea/vcs.xml
+oop_module/__pycache__/
+oop_module/venv/
+.idea/        
+__pycache__/
+venv/
+

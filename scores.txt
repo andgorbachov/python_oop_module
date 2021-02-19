@@ -1,0 +1,13 @@
+Player - And: Scores - 1
+Player - Andriy: Scores - 1
+Player - Andriy: Scores - 2
+Player - Andriy: Scores - 8
+Player - Andriy: Scores - 0
+Player - test: Scores - 0
+Player - Andriy: Scores - 8
+Player - Andriy: Scores - 2
+Player - Andriy: Scores - 0
+Player - Andriy: Scores - 8
+Player - Liza: Scores - 2
+Player - Liza: Scores - 1
+Player - liza: Scores - 2
